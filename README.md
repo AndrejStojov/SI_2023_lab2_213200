@@ -7,4 +7,4 @@
 ![image](https://github.com/AndrejStojov/SI_2023_lab2_213200/blob/master/241086491-9cdbb098-ceaa-447a-b459-2bf82ad48378.png)
 
 5.Multiple Condition
-![image](https://github.com/AndrejStojov/SI_2023_lab2_213200/assets/108288987/80941285-cb46-4b1b-9a5d-e5ae05759529)
+![image](https://github.com/AndrejStojov/SI_2023_lab2_213200/blob/master/241086523-80941285-cb46-4b1b-9a5d-e5ae05759529.png)
